@@ -11,3 +11,4 @@
 
 - 🏋️ **[sqlgym](https://github.com/azure-eller/sqlgym)** - LeetCode for SQL, in your terminal
 - 🏭 **[Ashicore](https://github.com/azure-eller/ashicore)** - inventory-first ERP for small manufacturers
+- 📱 **[Ashicore Android](https://github.com/azure-eller/ashicore-android)** - shop-floor companion app for Ashicore
