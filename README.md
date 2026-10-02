@@ -1,4 +1,4 @@
-# Hi, I'm Azure 👋
+# Azure Eller
 
 🛠️ **Data Engineer** | 🐧 **Arch + Neovim**
 
